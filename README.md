@@ -26,14 +26,9 @@ Este projeto tem a finalidade de emular a experiencia se os creditos em si funci
     - pygame
     - sys
 ### Instalação
-1. Clone o repositorio para sua máquina local ou baixe diretamente o .zip:
-```
-   git clone 
-   ```
-2. Vá para o diretorio:
-```
-   cd want-you-gone-recreation
-   ```
+1. Clone o repositorio para sua máquina local ou baixe diretamente o .zip
+2. Vá para o diretorio
+
 ### Uso
 BAIXE a biblioteca pygame, ela é essencial para o funcionamento do codigo
 
