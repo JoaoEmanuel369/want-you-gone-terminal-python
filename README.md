@@ -37,3 +37,7 @@ BAIXE a biblioteca pygame, ela é essencial para o funcionamento do codigo
 
 O projeto foi direcionado, como uma forma de entender funções de delays e o uso de midias externas, no caso a música (.mp3). Este projeto teve apenas o foco criativo e de aprendizado, ou seja, nada comercial.
 
+## Demonstração
+[![ALT TEXT](https://img.youtube.com/vi/xbb6rnuIKaM/0.jpg)](https://youtu.be/xbb6rnuIKaM?si=lNVVbnR-H8IRG3Vs)
+
+
