@@ -1,6 +1,6 @@
 # want-you-gone-terminal-python[README.md](https://github.com/user-attachments/files/23539035/README.md)
 
-# "Want You Gone" Terminal Python Recreation
+# "Want You Gone" Terminal Python Recreation ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 Este mini-projeto tem o foco de recriar o terminal dos creditos de Portal 2, se utilizando de Python para emular o DOS da música "Want You Gone". 
 
